@@ -1,1 +1,39 @@
-# ml_project
+
+This structure is designed for machine learning project.
+
+Project Organization
+------------
+
+    ├── environment.yml              <- The environment file
+    │
+    ├── LICENSE
+    │
+    ├── README.md                    <- The top-level README for developers using this project.
+    │
+    ├── data
+    │   ├── external                 <- Data from third party sources.
+    │   └── processed                <- The final, canonical data sets for modeling.
+    │
+    ├── figures                      <- Generated graphics and figures
+    │
+    ├── notebooks                    <- Updated Jupyter notebooks,file naming gets a number (for ordering),
+    │                                   the creator's initials, and a short `-` delimited description, 
+    │                                   e.g. `1.0-pg-data-analysis`
+    │   └── archive                  <- Jupyter notebook belongs to early stage analysis which are no longer usable
+    │
+    ├── models                       <- Saving model after training steps
+    │   ├── encoding                 <- the model's encoding infomation    
+    │   └── NN                       <- the full model information
+    │
+    ├── report                       <- Generated analysis result as CSV, PDF, LaTeX, etc.
+    │   ├── CV                       <- the results of cross-validation performance
+    │   └── {OTHER_ANALYSIS}         <- the results of other analysis
+    │
+    └── src                          <- Source code for the project
+        ├── archive                  <- Previous, not usable scripts
+        └── {SCRIPT_NAME}            <- helper scripts
+    
+
+--------
+
+<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
