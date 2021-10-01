@@ -11,6 +11,7 @@ Project Organization
     ├── README.md                    <- The top-level README for developers using this project.
     │
     ├── config                       <- Directory for yaml configuration files for model training, etc
+    │
     ├── data
     │   ├── external                 <- Data from third party sources.
     │   └── processed                <- The final, canonical data sets for modeling.
