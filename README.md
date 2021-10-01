@@ -18,14 +18,16 @@ Project Organization
     │
     ├── figures                      <- Generated graphics and figures
     │
+    ├── models                       <- Saving model after training steps
+    │   ├── encoding                 <- the model's encoding infomation    
+    │   └── NN                       <- the full model information
+    │
+    ├── nohup                        <- the log and error information of each run
+    │
     ├── notebooks                    <- Updated Jupyter notebooks, file naming gets a number (for ordering),
     │                                   the creator's initials, and a short `-` delimited description, 
     │                                   e.g. `1.0-pg-data-analysis`
     │   └── archive                  <- Jupyter notebook belongs to early stage analysis which are no longer usable
-    │
-    ├── models                       <- Saving model after training steps
-    │   ├── encoding                 <- the model's encoding infomation    
-    │   └── NN                       <- the full model information
     │
     ├── report                       <- Generated analysis result as CSV, PDF, LaTeX, etc.
     │   ├── CV                       <- the results of cross-validation performance
