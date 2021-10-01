@@ -10,6 +10,7 @@ Project Organization
     │
     ├── README.md                    <- The top-level README for developers using this project.
     │
+    ├── config                       <- Directory for yaml configuration files for model training, etc
     ├── data
     │   ├── external                 <- Data from third party sources.
     │   └── processed                <- The final, canonical data sets for modeling.
@@ -36,4 +37,4 @@ Project Organization
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+<p><small>Based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter</a> and <a target="_blank" href="https://github.com/cmawer/reproducible-model">cmawer/reproducible-model</a> data science project template</small></p>
