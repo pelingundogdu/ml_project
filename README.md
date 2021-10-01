@@ -29,7 +29,8 @@ Project Organization
     │                                   e.g. `1.0-pg-data-analysis`
     │   └── archive                  <- Jupyter notebook belongs to early stage analysis which are no longer usable
     │
-    ├── report                       <- Generated analysis result as CSV, PDF, LaTeX, etc.
+    ├── reports                      <- Generated analysis result as CSV, PDF, LaTeX, etc.
+    │   ├── activation               <- the results of  models' activation score
     │   ├── CV                       <- the results of cross-validation performance
     │   └── {OTHER_ANALYSIS}         <- the results of other analysis
     │
