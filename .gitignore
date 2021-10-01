@@ -1,3 +1,15 @@
+#################################### REMOVING ####################################
+data/
+models/
+figures/
+reports/
+nohup/
+notebooks/*SIL*.ipynb
+notebooks/Untit*.ipynb
+notebooks/*Copy*.ipynb
+notebooks/*copy*.ipynb
+
+#################################### DEFAULT ####################################
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
