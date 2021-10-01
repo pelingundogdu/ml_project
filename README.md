@@ -17,7 +17,7 @@ Project Organization
     │
     ├── figures                      <- Generated graphics and figures
     │
-    ├── notebooks                    <- Updated Jupyter notebooks,file naming gets a number (for ordering),
+    ├── notebooks                    <- Updated Jupyter notebooks, file naming gets a number (for ordering),
     │                                   the creator's initials, and a short `-` delimited description, 
     │                                   e.g. `1.0-pg-data-analysis`
     │   └── archive                  <- Jupyter notebook belongs to early stage analysis which are no longer usable
