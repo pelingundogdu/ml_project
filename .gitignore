@@ -1,13 +1,17 @@
 #################################### REMOVING ####################################
+config/ ## ignore in early stage of project, later include all the experiments
 data/
-models/
 figures/
-reports/
+models/
 nohup/
-notebooks/*SIL*.ipynb
-notebooks/Untit*.ipynb
-notebooks/*Copy*.ipynb
-notebooks/*copy*.ipynb
+notebooks/archive/
+reports/
+src/archive/
+
+*/*SIL*.*
+*/Untit*.*
+*/*Copy*.*
+*/*copy*.*
 
 #################################### DEFAULT ####################################
 # Byte-compiled / optimized / DLL files
