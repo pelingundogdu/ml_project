@@ -5,9 +5,18 @@ figures/
 models/
 nohup/
 notebooks/archive/
+notebooks/sandbox/
 reports/
 src/archive/
 
+notebooks/*SIL*.ipynb
+notebooks/*SIL*.py
+notebooks/*Untit*.ipynb
+notebooks/*Untit*.py
+notebooks/*copy*.ipynb
+notebooks/*copy*.py
+notebooks/*Copy*.ipynb
+notebooks/*Copy*.py
 */*SIL*.*
 */Untit*.*
 */*Copy*.*
